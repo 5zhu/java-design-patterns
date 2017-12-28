@@ -13,10 +13,12 @@ public class Car2 extends Car {
         System.out.println("汽车开始行驶...");
         super.move();
         long endTime = System.currentTimeMillis();
-        System.out.println("汽车行驶结束...");
+        long res = endTime - startTime;
+        System.out.println("汽车行驶结束...,共行驶"+res+"毫秒");
     }
 
     public static void main(String[] args) {
         Moveable car = new Car2();
+        car.move();
     }
 }
