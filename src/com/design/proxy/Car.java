@@ -1,4 +1,4 @@
-package com.design.proxy.staticProxy;
+package com.design.proxy;
 
 import java.util.Random;
 

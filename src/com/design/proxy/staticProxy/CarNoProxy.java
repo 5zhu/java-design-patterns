@@ -1,5 +1,7 @@
 package com.design.proxy.staticProxy;
 
+import com.design.proxy.Moveable;
+
 import java.util.Random;
 
 /**

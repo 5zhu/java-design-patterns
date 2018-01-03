@@ -1,4 +1,4 @@
-package com.design.proxy.staticProxy;
+package com.design.proxy;
 
 /**
  * Created by geguofeng on 2017/12/29.

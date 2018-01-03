@@ -1,4 +1,4 @@
-package com.design.proxy.staticProxy;
+package com.design.proxy;
 
 /**
  * 使用继承的实现方式实现代理

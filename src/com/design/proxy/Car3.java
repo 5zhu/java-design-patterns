@@ -1,4 +1,4 @@
-package com.design.proxy.staticProxy;
+package com.design.proxy;
 
 /**
  * 使用聚合方式实现代理
