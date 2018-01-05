@@ -8,5 +8,7 @@
 - [Factory](/src/com/design/factory/):工厂模式
 - [Strategy](src/com/design/strategy/):策略模式
 - [Observer](src/com/design/observer/):观察者模式
+- [Template](src/com/design/template/):模板方法模式
+- [Proxy](src/com/design/proxy/):代理模式
 
 
