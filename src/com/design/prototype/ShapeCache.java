@@ -10,7 +10,7 @@ public class ShapeCache {
     private static Hashtable<Integer, Shape> shapeMap
             = new Hashtable<Integer, Shape>();
 
-    public static Shape getShape(String shapeId) {
+    public static Shape getShape(int shapeId) {
         Shape cachedShape = shapeMap.get(shapeId);
         return (Shape) cachedShape.clone();
     }
