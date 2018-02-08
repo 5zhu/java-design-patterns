@@ -11,6 +11,7 @@
 - [Template](src/com/design/template/):模板方法模式
 - [Proxy](src/com/design/proxy/):代理模式
 - [Decorator](src/com/design/decorator/)：装饰器模式
-- [Facade]外观模式
+- [Facade](src/com/design/facade/)：外观模式
+- [Composite](src/com/design/composite): 组合模式
 
 
