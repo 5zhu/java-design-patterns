@@ -13,5 +13,6 @@
 - [Decorator](src/com/design/decorator/)：装饰器模式
 - [Facade](src/com/design/facade/)：外观模式
 - [Composite](src/com/design/composite): 组合模式
+- [Adapter](src/com/design/adapter): 适配器模式
 
 
